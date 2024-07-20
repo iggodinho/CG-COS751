@@ -77,5 +77,7 @@ python ray_tracer.py
 - Iluminação: Implementação do modelo de iluminação Phong com componentes ambiente, difusa e especular.
 - Sombras: Cálculo de sombras baseadas na interseção dos raios com a esfera e o plano.
 
+Trabalho Computação Gráfica - Igor Godinho
+
 ## Imagem
 ![Esfera Renderizada](sphere.png)
